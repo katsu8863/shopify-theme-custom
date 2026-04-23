@@ -12,6 +12,7 @@
 
 ## ディレクトリ構成
 各フォルダに実装内容ごとのコードを格納しています。
+
 shopify-theme-custom/
 ├── membership/        # 会員限定ページ制御
 ├── inventory-sort/    # 在庫なし商品の自動ソート
